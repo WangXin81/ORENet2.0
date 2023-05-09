@@ -45,7 +45,8 @@ dataset|——split_ss_dota
          
 ```
 
-2. The training and testing pipeline is organized in tools/train.py and tools/test.py.
+2. Need to download pre-training [weight file](https://drive.google.com/uc?id=1GmJzzHRgp5SvmGa6uj6n4GpCuYRT5RE9&export=download) to work_dirs/re_resnet101_v2_c8_batch256-f248cc41.pth
+3. The training and testing pipeline is organized in tools/train.py and tools/test.py.
 
 
 
