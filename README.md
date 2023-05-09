@@ -66,8 +66,8 @@ DOTA v1.0:
 
 ## Environments
 
-1. Ubuntu 18.04
-2. cuda 10.2
-3. pytorch 1.9.0
-4. python 3.7
+1. Ubuntu 
+2. cuda 9.2+
+3. pytorch 1.6+
+4. python 3.7+
 
