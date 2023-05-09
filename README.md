@@ -45,7 +45,7 @@ dataset|——split_ss_dota
          
 ```
 
-2. The training and testing pipeline is organized in run.ipynb (Jupyter Notebook).
+2. The training and testing pipeline is organized in tools/train.py and tools/test.py.
 
 
 
