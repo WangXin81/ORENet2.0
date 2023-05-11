@@ -51,7 +51,7 @@ dataset|——split_ss_dota
 
 
 ## Figs
-![image](https://github.com/WangXin81/ORENet2.0/blob/main/ORENet.jpg)
+![image](https://github.com/WangXin81/ORENet2.0/blob/main/fig3.jpg)
 
 
 ## Datasets:
